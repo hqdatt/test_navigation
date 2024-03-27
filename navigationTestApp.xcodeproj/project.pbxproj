@@ -13,6 +13,8 @@
 		1E5D5E2D2BB3ED3100BE19EB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1E5D5E2C2BB3ED3100BE19EB /* Base */; };
 		1E5D5E2F2BB3ED3400BE19EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5D5E2E2BB3ED3400BE19EB /* Assets.xcassets */; };
 		1E5D5E322BB3ED3400BE19EB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1E5D5E312BB3ED3400BE19EB /* Base */; };
+		1E5D5E3A2BB3ED6600BE19EB /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5D5E392BB3ED6600BE19EB /* firstViewController.swift */; };
+		1E5D5E3C2BB3ED7300BE19EB /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5D5E3B2BB3ED7300BE19EB /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1E5D5E2E2BB3ED3400BE19EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E5D5E312BB3ED3400BE19EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E5D5E332BB3ED3400BE19EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E5D5E392BB3ED6600BE19EB /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
+		1E5D5E3B2BB3ED7300BE19EB /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				1E5D5E252BB3ED3100BE19EB /* AppDelegate.swift */,
 				1E5D5E272BB3ED3100BE19EB /* SceneDelegate.swift */,
 				1E5D5E292BB3ED3100BE19EB /* ViewController.swift */,
+				1E5D5E392BB3ED6600BE19EB /* firstViewController.swift */,
+				1E5D5E3B2BB3ED7300BE19EB /* secondViewController.swift */,
 				1E5D5E2B2BB3ED3100BE19EB /* Main.storyboard */,
 				1E5D5E2E2BB3ED3400BE19EB /* Assets.xcassets */,
 				1E5D5E302BB3ED3400BE19EB /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				1E5D5E2A2BB3ED3100BE19EB /* ViewController.swift in Sources */,
 				1E5D5E262BB3ED3100BE19EB /* AppDelegate.swift in Sources */,
 				1E5D5E282BB3ED3100BE19EB /* SceneDelegate.swift in Sources */,
+				1E5D5E3C2BB3ED7300BE19EB /* secondViewController.swift in Sources */,
+				1E5D5E3A2BB3ED6600BE19EB /* firstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
